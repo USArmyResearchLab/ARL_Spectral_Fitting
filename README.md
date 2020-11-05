@@ -15,13 +15,13 @@ There are multiple installation routes availabe to use the application depending
 
 1. A Full Installation option is available upon request that includes the MATLAB Compiler Runtime (MCR) R2020b version 9.8. Due to the MATLAB runtime, this option requires administrator rights. Its large file size restricts it from being hosted on GitHub.
 
-2. A Web Dowload option results in a much smaller package size and downloads the appropriate MCR (R2020b, v9.8) during the installation process. This option requires administrator rights.
+2. A Web Dowload option results in a much smaller package size and downloads the appropriate MCR (R2020b, v9.8) during the installation process. This option requires administrator rights. "ARLSpectralFitting_web.exe"
 
-3. A Standalone option is available for users who already have the appropriate MCR (R2020b, v9.8) installed or who prefer to independently download and install the MCR by downloading the 64-bit version for the user's OS from the MathWOrks Web site by navigating to: https://www.mathworks.com/products/compiler/matlab-runtime.html. Administrator rights are not required due to the MCR already being installed.
+3. A Standalone option is available for users who already have the appropriate MCR (R2020b, v9.8) installed or who prefer to independently download and install the MCR by downloading the 64-bit version for the user's OS from the MathWOrks Web site by navigating to: https://www.mathworks.com/products/compiler/matlab-runtime.html. Administrator rights are not required due to the MCR already being installed but the "splash.png" file is required. "ARLSpectralFitting.exe"
 
-4. A MATLAB Application is provided for users who already have MATLAB installed and prefer to run the application through MATLAB. Double click the icon and MATLAB will automatically open the app installer to "Install into My Apps". 
+4. A MATLAB Application is provided for users who already have MATLAB installed and prefer to run the application through MATLAB. Double click the icon and MATLAB will automatically open the app installer to "Install into My Apps". "ARLSpectralFitting.mlappinstall"
 
-5. The MATLAB code is provided for MATLAB users who would like to help develop and troubleshoot the application.
+5. The MATLAB code is provided for MATLAB users who would like to help develop and troubleshoot the application. "ARLSpectralFittingGUI.mlapp" and "ARLSpectralFittingGUI_exported.m"
 
 For more information about the MATLAB Runtime and the MATLAB Runtime installer, see "Distribute Applications" in the MATLAB Compiler documentation in the MathWorks Documentation Center.
 
