@@ -13,7 +13,7 @@ Ryan M. O'Donnell, Ph.D. — ryan.m.odonnell12.civ@mail.mil
 Installing and Running the Application
 There are multiple installation routes availabe to use the application depending on software available to the user and their access (or lack of access) to computer administrator rights:
 
-1. A Full Installation option is provided that includes the MATLAB Compiler Runtime (MCR) R2020b version 9.8. Due to the MATLAB runtime, this option requires administrator rights.
+1. A Full Installation option is available upon request that includes the MATLAB Compiler Runtime (MCR) R2020b version 9.8. Due to the MATLAB runtime, this option requires administrator rights. Its large file size restricts it from being hosted on GitHub.
 
 2. A Web Dowload option results in a much smaller package size and downloads the appropriate MCR (R2020b, v9.8) during the installation process. This option requires administrator rights.
 
